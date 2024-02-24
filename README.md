@@ -16,7 +16,6 @@ Features
 - Chart.js
 - Axios
 - HTML/CSS
-- 
 # Getting Started
 
 To run the application locally:
