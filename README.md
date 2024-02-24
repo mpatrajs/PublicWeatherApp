@@ -1,19 +1,24 @@
 # PublicWeatherApp
 PublicWeatherApp is a weather application built using ASP.NET Core for the backend and React for the frontend. It allows users to view weather data for different cities and countries.
+
 For the DB was used Azure SQL Server and SQL database
+
 Features
-Display weather data for multiple cities
-View current temperature, minimum temperature, maximum temperature, and last update time
-Automatically refresh weather data at regular intervals
-Responsive design for desktop and mobile devices
-Technologies Used
-ASP.NET Core
-Entity Framework Core
-React
-Chart.js
-Axios
-HTML/CSS
-Getting Started
+- Display weather data for multiple cities
+- View current temperature, minimum temperature, maximum temperature, and last update time
+- Automatically refresh weather data at regular intervals
+- Responsive design for desktop and mobile devices
+  
+# Technologies Used
+- ASP.NET Core
+- Entity Framework Core
+- React
+- Chart.js
+- Axios
+- HTML/CSS
+- 
+# Getting Started
+
 To run the application locally:
 
 Clone this repository to your local machine.
